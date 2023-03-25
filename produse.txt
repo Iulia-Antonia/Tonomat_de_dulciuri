@@ -1,0 +1,7 @@
+1 apa 3
+2 croissant 6
+3 ciocolata 10
+4 Cappy 14
+5 Cola 7
+6 chipsuri 8
+7 biscuiti 4
